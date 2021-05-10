@@ -8,7 +8,7 @@
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "^4.0.4",
     "core-js": "3",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "lodash.template": "^4.5.0",
     "turbolinks": "^5.2.0"
   },
