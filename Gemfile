@@ -5,7 +5,7 @@ ruby '2.6.3'
 
 gem 'rails', '~> 6.0.0'
 gem 'sqlite3', '~> 1.4', group: :development
-gem 'puma', '~> 3.12'
+gem 'puma', '~> 4.3'
 
 group :production do
   gem 'pg'
